@@ -123,11 +123,11 @@ After installing Anaconda Python the command below will update the packages for 
  
   
    Toggles.
-* You can also toggle on and off the image write functionality by editing the main_app.py file: Change switch = True.
+* You can also toggle on and off the image write functionality by editing the main_app.py file: Change switch = True. You may want to consider this if space is an issue as every Happy, Sad and Angry frame detection gets written to the drive.
   ```sh
   switch = False
   ```
-* You can also toggle on and off the log write functionality by editing the main_app.py file: Change log_switch = True.
+* You can also toggle on and off the log write functionality by editing the main_app.py file: Change log_switch = True. Similar to the image write functionality, you may want to turn this off as the file can get really large based on the write per detection rate.
   ```sh
   log_switch = False
   ```
