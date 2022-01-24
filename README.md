@@ -2,8 +2,9 @@
 <div id="top"></div>
 
 
-[![MIT License][license-shield]][license-url]
-![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)][license-url]
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/mstatt/Emotion_Detection/-/commits)
 [![View Demo][demo-shield]][demo-url]
 
 
