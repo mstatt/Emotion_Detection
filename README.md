@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Platform-Streamlit-red)
 ![](https://img.shields.io/badge/License-MIT-blue)
 ![](https://img.shields.io/github/issues/mstatt/Emotion_Detection)
-![](https://img.shields.io/badge/Demo-YouTube-red)](https://www.youtube.com/watch?v=AWB2cEKcME0)
+![](https://img.shields.io/badge/Demo-YouTube-red?link=http://right&link=https://www.youtube.com/watch?v=AWB2cEKcME0)
   
 </div>
 
