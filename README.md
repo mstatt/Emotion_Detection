@@ -1,6 +1,6 @@
 # Emotion_Detection 
 <div id="top"></div>
-[![MIT License][license-shield]][license-url]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!-- PROJECT LOGO -->
@@ -175,7 +175,7 @@ See the https://github.com/mstatt/Emotion_Detection/issues for a full list of pr
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+[![Licence][license-shield]][license-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -187,9 +187,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: [https://github.com/mstatt/Emotion_Detection]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 
 
 
