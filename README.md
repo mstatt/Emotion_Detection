@@ -1,5 +1,4 @@
 # Emotion_Detection 
-![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 <div id="top"></div>
 
 
@@ -24,9 +23,6 @@ Emotion_Detection</h3>
   <p align="center">
     A light repo to get up and running with Emotion Detection using streamlit on your local machine.
     <br />
-    <br />
-
-    [![View Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
   </p>
 </div>
