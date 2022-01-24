@@ -1,10 +1,10 @@
 # Emotion_Detection 
 <div id="top"></div>
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/mstatt/Emotion_Detection)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)][license-url]
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/mstatt/Emotion_Detection/-/commits)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![View Demo][demo-shield]][demo-url]
 
 
