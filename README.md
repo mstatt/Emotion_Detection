@@ -2,8 +2,12 @@
 
 <div id="top"></div>
 
-![](https://img.shields.io/badge/Language-Python-blue)]
-![](https://img.shields.io/badge/Platform-Streamlit-red)]
+![](https://img.shields.io/badge/Language-Python-blue)
+
+![](https://img.shields.io/badge/Platform-Streamlit-red)
+
+![](https://img.shields.io/badge/License-MIT-blue)
+
 
 
 
