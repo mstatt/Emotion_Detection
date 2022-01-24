@@ -1,5 +1,7 @@
-# Emotion_Detection 
+# Emotion_Detection
+
 <div id="top"></div>
+
 [![GitHub issues](https://img.shields.io/github/issues/mstatt/Emotion_Detection)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
