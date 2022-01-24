@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 
-[![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![Language: Python](https://img.shields.io/badge/LANGUAGE-PYTHON-BLUE)]
 [![GitHub issues](https://img.shields.io/github/issues/mstatt/Emotion_Detection)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
