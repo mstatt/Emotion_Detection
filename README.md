@@ -2,8 +2,8 @@
 <div id="top"></div>
 
 [![MIT License][license-shield]][license-url]
-[![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 [![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
