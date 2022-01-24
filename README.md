@@ -1,6 +1,6 @@
 # Emotion_Detection 
 <div id="top"></div>
-![Python](https://img.shields.io/badge/Language-Python-blue)
+[![GitHub issues](https://img.shields.io/github/issues/mstatt/Emotion_Detection)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
 <!-- PROJECT LOGO -->
