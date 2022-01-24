@@ -1,0 +1,10 @@
+streamlit
+numpy==1.18.5
+Keras==2.4.3
+opencv-python-headless
+tensorflow
+pandas
+numpy
+matplotlib==3.3.3
+Pillow==8.1.1
+
