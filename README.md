@@ -1,17 +1,9 @@
 # Emotion_Detection
 <div id="top"></div>
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
+[![MIT License][license-shield]][license-url]
 [![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
 [![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-
-
 [![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
@@ -213,7 +205,7 @@ Project Link: [https://github.com/mstatt/Emotion_Detection]
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: assets/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765.svg?style=for-the-badge
 [license-url]: https://github.com/mstatt/Emotion_Detection/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [linkedin-url]: https://www.linkedin.com/in/mikestattlelman/
 [happy-screenshot]: assets/happy.png
 [angry-screenshot]: assets/angry.png
