@@ -1,6 +1,5 @@
 # Emotion_Detection 
 ![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues)
 <div id="top"></div>
 
 
@@ -27,6 +26,7 @@ Emotion_Detection</h3>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=AWB2cEKcME0" target="_blank">View Demo</a>
+    [![View Demo]https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
   </p>
 </div>
