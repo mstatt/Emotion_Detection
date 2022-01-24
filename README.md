@@ -2,8 +2,8 @@
 
 <div id="top"></div>
 
-![Language: Python](https://img.shields.io/badge/LANGUAGE-PYTHON-BLUE)
-![PLATFORM: STREAMLIT](https://img.shields.io/badge/<PLATFORM>-<STREAMLIT>-<RED>)
+![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Platform-Streamlit-red)
 
 
 
