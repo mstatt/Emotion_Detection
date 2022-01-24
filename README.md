@@ -45,6 +45,7 @@ Emotion_Detection</h3>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#toggles">Toggles</a></li>
     <li><a href="#output">Output</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -116,7 +117,21 @@ After installing Anaconda Python the command below will update the packages for 
   ```sh
   streamlit run main_app.py
   ```
-
+ 
+ <!-- TOGGLES -->
+## Toggles
+ 
+  
+   Toggles.
+* You can also toggle on and off the image write functionality by editing the main_app.py file: Change switch = True.
+  ```sh
+  switch = False
+  ```
+* You can also toggle on and off the log write functionality by editing the main_app.py file: Change log_switch = True.
+  ```sh
+  log_switch = False
+  ```
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
