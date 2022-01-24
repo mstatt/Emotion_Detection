@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Platform-Streamlit-red)
 ![](https://img.shields.io/badge/License-MIT-blue)
 ![](https://img.shields.io/github/issues/mstatt/Emotion_Detection)
+![](https://img.shields.io/github/forks/mstatt/Emotion_Detection)
   
 </div>
 
