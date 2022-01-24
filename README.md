@@ -2,6 +2,7 @@
 <div id="top"></div>
 
 [![MIT License][license-shield]][license-url]
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues)
 
 
 <!-- PROJECT LOGO -->
