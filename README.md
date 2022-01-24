@@ -1,5 +1,6 @@
 # Emotion_Detection 
-![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues)
 <div id="top"></div>
 
 
@@ -176,9 +177,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 <br />
-See the 
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/mstatt/Emotion_Detection/issues) 
-for a full list of proposed features (and known issues).
+See the https://github.com/mstatt/Emotion_Detection/issues for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
