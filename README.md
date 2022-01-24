@@ -196,6 +196,8 @@ See the https://github.com/mstatt/Emotion_Detection/issues for a full list of pr
 
 Project Link: [https://github.com/mstatt/Emotion_Detection]
 
+Project Demo: [https://www.youtube.com/watch?v=AWB2cEKcME0]
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
