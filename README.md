@@ -25,8 +25,8 @@ Emotion_Detection</h3>
     A light repo to get up and running with Emotion Detection using streamlit on your local machine.
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=AWB2cEKcME0" target="_blank">View Demo</a>
-    [![View Demo]https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+    [![View Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
   </p>
 </div>
