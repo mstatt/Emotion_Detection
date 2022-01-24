@@ -57,7 +57,7 @@ Emotion_Detection</h3>
 <!-- ABOUT THE PROJECT -->
 ## About The Emotion Detection Application by Falcons.ai
 
-In this project I wanted to test and deploy a web based emotion detection application. The application captures frames from the web cam and runs them against a pre-trained emotion detection model and then captures the output in either a happy or an angry directory. During this prediction the output of all detected emotions are written to a camera-log.csv log file, that upon clicking the detection off wil render in a dataframe to the webpage.
+In this project I wanted to test and deploy a web based emotion detection application. The application captures frames from the web cam and runs them against a pre-trained emotion detection model and then captures the output in either a sad, happy or an angry directory. During this prediction the output of all detected emotions are written to a camera-log.csv log file, that upon clicking the detection off wil render in a dataframe to the webpage.
 
 
 Use this `README.md` to get started.
