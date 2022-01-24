@@ -55,7 +55,7 @@ Emotion_Detection</h3>
 <!-- ABOUT THE PROJECT -->
 ## About The Emotion Detection Application by Falcons.ai
 
-In this project I wanted to test and deploy a web based emotion detection application. The application captures frames from the web cam and runs them against a pre-trained emotion detection model and then captures the output in either a sad, happy or an angry directory. During this prediction the output of all detected emotions are written to a camera-log.csv log file, that upon clicking the detection off wil render in a dataframe to the webpage.
+In this project I wanted to test and deploy a web based emotion detection application. The application captures frames from the web cam and runs them against a pre-trained emotion detection model and then captures the output in either a sad, happy or an angry directory. During this prediction the output of all detected emotions are written to a camera-log.csv log file, that upon clicking the detection off will render in a dataframe to the webpage.
 
 
 Use this `README.md` to get started.
@@ -136,7 +136,7 @@ After installing Anaconda Python the command below will update the packages for 
 <!-- OUTPUT -->
 ## Output
 
-In the images below you can see still shots of the application runnning on your local machine. When deployed to Streamlit platform there are obstacles to accessing the users web cam through the browser that I and others have yet to overcome. But, It does work fine locally.
+In the images below you can see still shots of the application runnning on your local machine. When deployed to Streamlit platform there are obstacles to accessing the users web cam through the browser that I and others have yet to overcome. But, It does work fine on your local machine.
 
 Happy Detection            |  Angry Detection
 :-------------------------:|:-------------------------:
@@ -160,7 +160,7 @@ Surprised Detection            |  Neutral Detection
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you want feel free to fork the repo You can also simply open an issue with the tag "enhancement".
+If you want, feel free to fork this repository. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -197,7 +197,7 @@ Project Link: [https://github.com/mstatt/Emotion_Detection]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: assets/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765.svg?style=for-the-badge
 [license-url]: https://github.com/mstatt/Emotion_Detection/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mikestattlelman/
